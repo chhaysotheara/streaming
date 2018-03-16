@@ -82,10 +82,10 @@
                     KOKO
                 </div>
 
-                <audio controls>
-                    <source src="https://video-mp4.sgp1.digitaloceanspaces.com/y2mate.com%20-%20bebe_rexha_meant_to_be_feat_florida_georgia_line_official_music_video_zDo0H8Fm7d0.mp3" type="audio/mp3">
-                    Your browser does not support the audio element.
-                </audio>
+                <video width="320" height="240" controls>
+                    <source src="https://video-mp4.sgp1.digitaloceanspaces.com/Max%20Builds%20her%20FIRST%20PC%20%E2%80%93%20Photo%20Editing%20Build%20Log.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
